@@ -1,0 +1,19 @@
+.game-board {
+  width: 500px;
+  height: 500px;
+}
+
+/*.row {
+  border: solid black 2px;
+  width: 400px;
+  height: 100px;
+  margin: collapse;
+  margin: 0px;
+}
+*/
+.cell {
+  border: solid black 2px;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
